@@ -1,3 +1,5 @@
+<img src=".github/assets/icon.svg" alt="" width="72" height="72">
+
 # easyfontkit
 
 Find the fonts a website really uses, save the font files, see how each one is licensed, and get the closest free font for the ones that are not free.
